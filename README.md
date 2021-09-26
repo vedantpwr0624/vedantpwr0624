@@ -7,12 +7,12 @@ I am a young programmer interested in **Open Source** and **Machine Learning**. 
 
 
 ## How to reach me :
-1. [Twitter](https://twitter.com/vedantpwr)
-2. [LinkedIn](https://www.linkedin.com/in/vedantpawar/)
-3. [GitHub](https://github.com/vedantpwr0624/)
-4. [Email](mailto:vedant.pwr10@gmail.com)
-6. [Contra](https://contra.com/vedantpawar)
-7. [Fiverr](https://www.fiverr.com/users/vedantpwr0624/)
+- [Twitter](https://twitter.com/vedantpwr)
+- [LinkedIn](https://www.linkedin.com/in/vedantpawar/)
+- [GitHub](https://github.com/vedantpwr0624/)
+- [Email](mailto:vedant.pwr10@gmail.com)
+- [Contra](https://contra.com/vedantpawar)
+- [Fiverr](https://www.fiverr.com/users/vedantpwr0624/)
 ---
 
 <!---
